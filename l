@@ -1,1 +1,0 @@
-# internet-broser-no-adds
