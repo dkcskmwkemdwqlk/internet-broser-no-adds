@@ -25,4 +25,4 @@ imacs
 
 linux devices
 
-To install run the .EXE file
+To install run the .EXE file labeled Installer
